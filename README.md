@@ -2,13 +2,13 @@
 
 Much of the code that we use is pulled from the official Github repository for the FNC-1 competition. Here is a link to the repository: https://github.com/FakeNewsChallenge/fnc-1-baseline.
 
-For the sake of completeness, we append their readme below, and give all credit to them. The files that we created are:
+For the sake of completeness, we append their README below, and give all credit for their code to them. The only files that we created are:
 
 - BertEmbeddings.ipynb
 - baselineNotebook.ipynb
 - featMLP.ipynb
 
-In these notebooks, we make use of the dataset reading functionality, and the the feature generating functions that are provided in the repo. 
+In these notebooks, we make use of the dataset reading functionality, and the the feature generating functions that are provided in the repo. Some of the code in these files are is taken from the fnc_kfold.py file found in this repository, which comes from fnc-1-baseline. In this repository, we also include datasets that are made available from https://github.com/FakeNewsChallenge/fnc-1. 
 
 # Baseline FNC implementation
 
